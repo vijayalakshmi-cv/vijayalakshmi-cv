@@ -44,4 +44,4 @@ Underwater imaging • Object detection • Keypoint estimation • Medical imag
 - LinkedIn: https://www.linkedin.com/in/vijayalakshmi-mohankumar-79300b233/
 - Google Scholar: https://scholar.google.com/citations?user=xkgGnscAAAAJ
 - Email: vijinakshatra2018@gmail.com
-- Portfolio website (GitHub Pages): *(add once created)* https://vijayalakshmi-cv.github.io/
+- Portfolio website (GitHub Pages): *(add once created)* https://github.com/vijayalakshmi-cv
