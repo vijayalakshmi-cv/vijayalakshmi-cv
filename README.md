@@ -6,7 +6,7 @@ Underwater imaging • Object detection • Keypoint estimation • Medical imag
 ---
 
 ## About me
-- Ph.D. researcher (Electronics Engineering, VIT Chennai) working on real-world underwater vision for aquaculture monitoring and deep-sea imagery.
+- Ph.D. researcher (School of Electronics Engineering, VIT Chennai) working on real-world underwater vision for aquaculture monitoring and deep-sea imagery.
 - Build end-to-end deep learning systems: **dataset curation → model design → benchmarking → evaluation → deployment-ready considerations**.
 - Interests: robust vision under challenging conditions (turbidity/haze, low contrast, occlusion, illumination variation) and efficient models.
 
